@@ -7,7 +7,6 @@ IPL Analysis using Apache Spark
 Description:
 
 This project involves analyzing Indian Premier League (IPL) cricket data using PySpark to extract actionable insights and generate performance metrics. 
-
 The dataset includes match details, venue information, and ball-by-ball events, enabling granular analysis of player, team, and match performance.
 
 Key Objectives:
